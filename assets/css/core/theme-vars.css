@@ -8,19 +8,19 @@
     --radius: 8px;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
+    --primary: rgb(24, 24, 24);
     --secondary: rgb(108, 108, 108);
     --tertiary: rgb(214, 214, 214);
     --content: rgb(31, 31, 31);
     --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
+    --code-bg: rgb(255, 255, 250);
     --border: rgb(238, 238, 238);
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
+    --theme: rgb(24, 24, 24);
     --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
+    --primary: rgb(255, 255, 255);
     --secondary: rgb(155, 156, 157);
     --tertiary: rgb(65, 66, 68);
     --content: rgb(196, 196, 197);
